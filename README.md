@@ -10,13 +10,13 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on Stefanini LATAM!
+- 🔭 I’m currently working on Cargo77, located on Ecuador!
 
-- 🌱 I’m currently learning NestJS, C#, Typescript
+- 🌱 I’m currently learning NestJS, GO (Gin Gonic), Typescript (More advanced concepts)
 
 - 👯 I’m looking to collaborate on Freelance Projects 
 
-- 💬 Talk to me about - JavaScript, MongoDB, Sequelize, Nodejs, Express, Freelancing Opportunites or Job Opportunities 
+- 💬 Talk to me about - JavaScript, MongoDB, Sequelize, Nodejs, Express, NestJS, GO, Typescript, Freelancing Opportunites or Job Opportunities 
 
   <div align='center' dir='auto'>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
